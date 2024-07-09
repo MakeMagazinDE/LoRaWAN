@@ -4,7 +4,7 @@ Maker Media GmbH
 
 ***
 
-# Make Specia LoRaWAN
+# Make Special LoRaWAN
 
 Templates, Listings und anderes zum Make Special LoRaWAN
 
